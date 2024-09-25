@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mestre Cervejeiro</string>
+    <string name="placeholder"> </string>
+    <string-array name="cervejas_array">
+        <item>Lager</item>
+        <item>Pilsen</item>
+        <item>IPA</item>
+        <item>Bock</item>
+        <item>Amber</item>
+        <item>Weiss</item>
+    </string-array>
+</resources>
